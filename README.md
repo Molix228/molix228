@@ -5,7 +5,7 @@ I am a **Middle/Middle+ Software Engineer** focused on building scalable APIs, m
 🌱 **Current Focus:** Actively transitioning my backend architecture expertise from NestJS to the **Java & Spring Boot** ecosystem.
 
 ### 🚀 What I'm Currently Building: **Cariff**
-I am currently the Lead Architect and Full-Stack Developer for **[Cariff](https://cariff.com)**, a modern automotive marketplace platform. 
+I am currently the Middle/Middle+ Software Engineer in [B&G soft agency](https://www.linkedin.com/company/b-g-soft-agency-it/home/) and Lead Architect and Full-Stack Developer for **[Cariff](https://cariff.com)**, a modern automotive marketplace platform. 
 
 The source code is hosted in a private organization as it is a production MVP, but here is a look under the hood at the infrastructure I built:
 - **Architecture:** Distributed microservices backend on NestJS with decoupled domain modules, inter-service messaging via Redis Pub/Sub, and centralized configurations via AWS SSM Parameter Store.
